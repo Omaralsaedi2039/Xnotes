@@ -1,4 +1,4 @@
-# xnotes
+# Xnotes
 
 Simple flutter notes app
 
